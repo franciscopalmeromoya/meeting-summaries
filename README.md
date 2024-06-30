@@ -1,5 +1,9 @@
 # Meeting Summary Generator
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-%3E%3D3.12-blue.svg)](https://www.python.org/downloads/release)
+
+
 This project is designed to help you easily create summaries of your group meetings using Python. It leverages the Whisper model for speech recognition and the Gemma model from Ollama for generating concise meeting summaries.
 
 ## Table of Contents
@@ -91,7 +95,3 @@ python gemma.py -a transcriptions/meeting_audio.txt -o summaries -m key-takeaway
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further according to your preferences and specific project details.
