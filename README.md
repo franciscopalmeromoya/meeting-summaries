@@ -23,7 +23,8 @@ This project is designed to help you easily create summaries of your group meeti
 
 ## Requirements
 
-- Python 3.12.4 or higher
+- Python 3.12.4 or higher.
+- Ollama serve models.
 - Required Python packages:
   - `speechrecognition`
   - `ollama`
