@@ -94,4 +94,4 @@ python gemma.py -a transcriptions/meeting_audio.txt -o summaries -m key-takeaway
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/MIT) website for details.
